@@ -1,1 +1,1 @@
-# learn
+print("hello")
